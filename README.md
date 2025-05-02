@@ -38,7 +38,6 @@ Here’s a snapshot of the technologies I work with:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RivaelManurung&theme=dracula&show_icons=true&hide_border=true&count_private=true" alt="Rivael's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RivaelManurung&theme=dracula&hide_border=true" alt="Rivael's GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RivaelManurung&theme=dracula&show_icons=true&hide_border=true&layout=compact" alt="Rivael's Top Languages" />
 </div>
 
@@ -69,15 +68,6 @@ Let’s collaborate or chat about tech! Find me on:
   </a>
 </div>
 
----
-
-## 🚀 Featured Projects
-
-Here are some projects I’m proud of:
-
-- **[Project Name](https://github.com/RivaelManurung/project-repo)**: A brief description of the project, technologies used, and its impact. [Live Demo](#)
-- **[Project Name](https://github.com/RivaelManurung/project-repo)**: A brief description of the project, technologies used, and its impact. [Live Demo](#)
-- **[Project Name](https://github.com/RivaelManurung/project-repo)**: A brief description of the project, technologies used, and its impact. [Live Demo](#)
 
 ---
 
